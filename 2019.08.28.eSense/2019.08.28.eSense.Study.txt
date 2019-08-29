@@ -1,0 +1,10 @@
+eSense Study #1
+===============
+
+start     : 2019-08-28 08-09-06
+end       : 2019-08-28 16-15-57
+duration  : 08:06:51
+
+# files         : 61
+# MB (unzipped) : 61 * 1 MB = 61 MB
+# data points   : 5480/2 * 61 = 167140
